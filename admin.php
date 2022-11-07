@@ -12,6 +12,7 @@
 </head>
 <body>
     <div class="admin-control">
+        <img src="Other-Images/logo.png" alt="logo">
         <ul>
             <li><a href="#">Profile</a></li>
             <li><a href="#">Accounts</a></li>
