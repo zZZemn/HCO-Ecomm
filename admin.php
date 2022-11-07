@@ -9,13 +9,11 @@
 <body>
     <div class="admin-control">
         <ul>
+            <li><a href="#">Profile</a></li>
             <li><a href="#">Accounts</a></li>
             <li><a href="#">Orders</a></li>
             <li><a href="#">Products</a></li>
-            <li><a href="#"></a></li>
-            <li><a href="#">Profiles</a></li>
-            <li><a href="#">Profiles</a></li>
-            <li><a href="#">Profiles</a></li>
+            <li><a href="#">Admin Account</a></li>
         </ul>
     </div>
 </body>
