@@ -1,0 +1,52 @@
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 80%;
+    margin-top: 3%;
+    font-family: 'Roboto', sans-serif;
+}
+
+table tr td{
+    padding: 10px;
+}
+
+.first td {
+    font-size: 20px;
+}
+
+.name p{
+    padding-left: 5px;
+    border-left: 5px solid rgb(0, 255, 13);
+}
+
+.first .logout {
+    text-align: center;
+    background-color: rgb(236, 236, 236);
+    cursor: pointer;
+}
+
+.first .logout a{
+    padding-left: 5px;
+    border-left: 5px solid red;
+    text-decoration: none;
+    color: black;
+}
+
+.first .logout:hover {
+    background-color: rgb(228, 228, 228);
+}
+
+.first .logout a:hover {
+    color: red;
+}
+
+.cart td{
+    text-align: center;
+    font-size: 25px;
+    padding: 15px 0;
+}
+
+.items td {
+    text-align: center;
+}
+
