@@ -23,7 +23,6 @@
 .admin-control ul{
     display: flex;
     flex-direction: column;
-    margin-top: 20px;
 }
 
 .admin-control ul li {
