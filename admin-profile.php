@@ -18,7 +18,7 @@
             <li><a href="#">Accounts</a></li>
             <li><a href="#">Orders</a></li>
             <li><a href="#">Products</a></li>
-            <li><a href="#">Admin Account</a></li>
+            <li><a href="#">Admin Accounta</a></li>
         </ul>
     </div>
 </body>
